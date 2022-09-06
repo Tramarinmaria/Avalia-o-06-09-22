@@ -8,4 +8,4 @@ A poluição – do ar, água e solo – continua a causar mais de 9 milhões de
 O número se mantém o mesmo desde 2015, apesar de uma queda nas mortes relacionadas à poluição doméstica no ar e na água, segundo a publicação.
 
 Os autores analisaram dados de 2019 do "Global Burden of Disease", um estudo em andamento da Universidade de Washington, nos Estados Unidos, que avalia a exposição geral à poluição e calcula o risco de mortalidade.
-<em><strong>"Estamos sentados no caldeirão e queimando lentamente", disse Richard Fuller, coautor do estudo e chefe da organização sem fins lucrativos Pure Earth. Mas, disse Fuller, ao contrário das mudanças climáticas, malária ou HIV, "não temos nos concentrado muito na poluição ambiental".</strong</em>
+<em><strong>"Estamos sentados no caldeirão e queimando lentamente", disse Richard Fuller, coautor do estudo e chefe da organização sem fins lucrativos Pure Earth. Mas, disse Fuller, ao contrário das mudanças climáticas, malária ou HIV, "não temos nos concentrado muito na poluição ambiental".</strong></em>
