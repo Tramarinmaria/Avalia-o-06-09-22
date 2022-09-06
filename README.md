@@ -1,5 +1,5 @@
 # Avalia-o-06-09-22 
-Poluição mata 9 milhões de pessoas por ano; África é a mais atingida
+<html><h1>Poluição mata 9 milhões de pessoas por ano; África é a mais atingida</1>
 <strong><h1>A poluição do ar por processos industriais, juntamente com a urbanização, levou a um aumento de 7% nas mortes relacionadas à poluição de 2015 a 2019. Desde 2000, o aumento nas mortes foi de 66%.</h1></strong>
 
 
